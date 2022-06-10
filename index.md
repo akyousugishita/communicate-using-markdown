@@ -8,3 +8,7 @@
 $ 
 gitinit/Users/skills/Projects/recipe-repository/.git/に初期化された空のGitリポジトリ
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
